@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="All_orders">
+    <Position X="15" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>DBJAEIgAEYCQCAUBBBAIACAgAQAAAAAAIAAAAgAIEBA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_num" Collapsed="true">
+    <Position X="17.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_date" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_time" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_description" Collapsed="true">
+    <Position X="17.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_price" Collapsed="true">
+    <Position X="17.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compire_by_type" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>All_orders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Card">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAACAAAgEAAAAAQAAAAAAAAAABAAAAAAAIEAAAAA=</HashCode>
+      <FileName>Card.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="8.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAEAAQQAAAAAAAAAAAAAAAIAgoAQgCREAAAQ=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="17.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAACAIBAAAAAAMAAFQQAAAAQAAgABGAAgAAQAQAQ=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Express_Order">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAYCAAIAIAAAGFAAAAAQBAAAABAAAAAAIAAA=</HashCode>
+      <FileName>Express_Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insured_order">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAIKAgAAAgAAABAABAAABIAAABAAAAAgAAAA=</HashCode>
+      <FileName>Insured_order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAICAUAAIBBAABAQEAAABwAAEBQAgAAAAAAA=</HashCode>
+      <FileName>Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order_exceptions" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date_exception" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time_exception" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Price_exception" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Courier_exception" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Days_to_deliver_exception" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Search_exception" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delete_exception" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_exceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ordinary_order">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAgBICAEAAAIAAABCAAAAABAAAABAAABAAAAAA=</HashCode>
+      <FileName>Ordinary_order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAgAAACAAAAAAABAAAEAAARkAAgEAAACIAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time" Collapsed="true">
+    <Position X="17.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAABABAAwQAECDQAAAAAAAAAAAAAjAEABgQU=</HashCode>
+      <FileName>Time_.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARGAAAAAAAAAAEAABAAAAACAgIAIEDZAAAAA=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

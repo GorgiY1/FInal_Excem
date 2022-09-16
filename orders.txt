@@ -1,0 +1,4 @@
+Ordinary_order 1 2025.12.18 23:59:5 meat 85,000000 
+Express_Order 2 2028.9.12 23:57:5 milk 45,000000 pit 2 
+Insured_order 3 2027.5.12 23:56:5 bread 5,000000 MeastExcpress 500,000000 
+
